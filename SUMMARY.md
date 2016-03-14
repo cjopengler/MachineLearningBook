@@ -4,5 +4,6 @@
 * [First Chapter](chapter1.md)
 * [2Chapter](2chapter.md)
 * [Python](./src/python/README.md)
+* [机器学习](./src/machinelearning/README.md)
 
 
