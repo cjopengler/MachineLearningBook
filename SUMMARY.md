@@ -25,7 +25,7 @@
 * [Python](src/python/README.md)
   * [语法](src/python/语法.md)
   * [Python核心编程](src/python/pythoncore/README.md)
-    * [第二章](./chapter2.md)
+    * [第二章](src/python/pythoncore/chapter2.md)
 * [量化](src/quant/README.md)
   * [统计套利](src/quant/statARB/README.md)
     * [第一章 蒙特卡罗的谬误](./src/quant/statARB/第一章.md)
