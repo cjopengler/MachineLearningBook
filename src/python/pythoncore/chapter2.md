@@ -15,3 +15,9 @@ print "string test: %c %c %s %s %s" % (myString[0], myString[-1], myString[1:3],
 ```
 string test: H d el HelloWorld HelloWorl
 ```
+
+```
+powerString = 'abc'*3
+输出:
+abcabcabc
+```
