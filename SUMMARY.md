@@ -23,4 +23,5 @@
    * [第十九课 总结](src/machineLearning/Lesson19.md)
    * [机器学习作业](src/machineLearning/ex.md)
 * [Python](src/python/README.md)
+  * [语法](src/python/语法.md)
 
