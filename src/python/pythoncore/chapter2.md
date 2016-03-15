@@ -1,7 +1,6 @@
 # Chapter2
 ## 字符串操作
 
-
 ```
 myString = 'HelloWorld'
 print myString
