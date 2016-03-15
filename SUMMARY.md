@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [2Chapter](2chapter.md)
 * [Python](src/python/README.md)
 * [机器学习](src/machineLearning/README.md)
    * [第一课 介绍](src/machineLearning/Lesson1.md)
