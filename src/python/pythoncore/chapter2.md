@@ -21,3 +21,4 @@ powerString = 'abc'*3
 输出:
 abcabcabc
 ```
+这种表示可以用来划出分割线。
