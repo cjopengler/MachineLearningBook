@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Python](src/python/README.md)
 * [机器学习](src/machineLearning/README.md)
    * [第一课 介绍](src/machineLearning/Lesson1.md)
    * [第二课 单一特征量的线性回归](src/machineLearning/Lesson2.md)
@@ -23,4 +22,5 @@
    * [第十八课 应用举例: 图片 OCR](src/machineLearning/Lesson18.md)
    * [第十九课 总结](src/machineLearning/Lesson19.md)
    * [机器学习作业](src/machineLearning/ex.md)
+* [Python](src/python/README.md)
 
