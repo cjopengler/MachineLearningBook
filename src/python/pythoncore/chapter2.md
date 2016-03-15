@@ -1,6 +1,8 @@
 # Chapter2
 ## 字符串操作
 
+字符串的索引从0开始，最后一个是-1. [begin:end] 这种表述的区间是 [begin, end).
+
 ```
 myString = 'HelloWorld'
 print myString
