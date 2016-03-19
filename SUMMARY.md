@@ -31,6 +31,7 @@
     * [第五章 数字](src/python/pythoncore/chapter5.md)
     * [第六章 序列:字符串、列表和元组](src/python/pythoncore/chapter6.md)
     * [第七章 映像和集合类型](src/python/pythoncore/chapter7.md)
+    * [第八章 条件和循环](src/python/pythoncore/chapter8.md)
 * [量化](src/quant/README.md)
   * [统计套利](src/quant/statARB/README.md)
     * [第一章 蒙特卡罗的谬误](./src/quant/statARB/第一章.md)
