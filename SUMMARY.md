@@ -49,5 +49,6 @@
     * [第二章 统计套利](./src/quant/statARB/第二章.md)
     * [第三章 结构模型](./src/quant/statARB/第三章.md)
 * [机器学习课题](./src/MLTopic/README.md)
-	* [课题一 基于神经网络判断明天涨跌](./src/MLTopic/stock.md)
+	* [课题一 基于神经网络的股票研究](./src/MLTopic/stock.md)
 	* [课题二 对自己的邮件进行自动分类整理](./src/MLTopic/emailClassfier.md)
+	* [课题三 抓取自己感兴趣的网页](./src/MLTopic/favoritePage.md)
