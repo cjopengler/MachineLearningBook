@@ -24,6 +24,7 @@
    * [机器学习作业](src/machineLearning/ex.md)
 * [Python](src/python/README.md)
   * [语法](src/python/语法.md)
+  * [相关环境搭建](src/python/enviroment.md)
   * [Python核心编程](src/python/pythoncore/README.md)
     * [第二章 快速入门](src/python/pythoncore/chapter2.md)
     * [第三章 Python基础](src/python/pythoncore/chapter3.md)
