@@ -1,0 +1,2 @@
+# NG机器学习Python实践
+使用Python完成NG机器学习中的所有代码。在NG的网课中，所有代码使用Octave来完成的。这里使用Python来完成所有代码。
