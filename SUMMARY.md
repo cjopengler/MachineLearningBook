@@ -27,6 +27,7 @@
 	* [第二章 k邻近算法](src/MLInAction/chapter2.md) 
 	* [第三章 决策树](src/MLInAction/chapter3.md)
 	* [第四章 朴素贝叶斯分类](src/MLInAction/chapter4.md)
+	* [第五章 逻辑回归](src/MLInAction/chapter5.md)
 * [Python](src/python/README.md)
   * [语法](src/python/语法.md)
   * [相关环境搭建](src/python/enviroment.md)
