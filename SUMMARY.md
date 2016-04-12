@@ -51,6 +51,7 @@
     * [第十七章 网络客户端编程](src/python/pythoncore/chapter17.md)
     * [第十八章 多线程编程](src/python/pythoncore/chapter18.md)
   * [用Python做科学计算](src/python/scipy/README.md)
+    * [数值计算要点 1](src/python/scipy/ns1.md)
 * [量化](src/quant/README.md)
   * [统计套利](src/quant/statARB/README.md)
     * [第一章 蒙特卡罗的谬误](./src/quant/statARB/第一章.md)
@@ -65,6 +66,7 @@
 	* [第一周](src/probability/Week1.md)
 	* [第二周](src/probability/Week2.md)
 	* [小结](src/probability/Summary1.md)
+	* [第九讲 随机变量](src/probability/9.md)
 * [线性代数]()
 * [高等数学]()
 
