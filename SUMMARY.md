@@ -72,6 +72,14 @@
 	* [第十三讲 连续分布和指数分布](src/probability/13.md)
 	* [第十四讲 正态分布](src/probability/14.md)
 	* [概率分布小结](src/probability/Summary2.md)
+	* [第十六讲 二元随机变量，离散型随机变量分布规律](src/probability/16.md)
+	* [第十七讲 二元离散型随机变量边际分布率和条件分布律
+](src/probability/17.md)
+	* [第十八讲 二元随机变量分布函数，条件分布函数](src/probability/18.md)
+	* [第二十三讲 随机变量的独立性](src/probability/23.md)
+	* [二元概率分布小结](src/probability/Summary3.md)
+	* [第二十九讲 数学期望的性质](src/probability/29.md)
+	* [概率全息知识小结](src/probability/Summary4.md)
 * [线性代数]()
 * [高等数学]()
 
