@@ -67,6 +67,11 @@
 	* [第二周](src/probability/Week2.md)
 	* [小结](src/probability/Summary1.md)
 	* [第九讲 随机变量](src/probability/9.md)
+	* [第十讲 离散型随机变量](src/probability/10.md)
+	* [第十一讲 分布函数](src/probability/11.md)
+	* [第十三讲 连续分布和指数分布](src/probability/13.md)
+	* [第十四讲 正态分布](src/probability/14.md)
+	* [概率分布小结](src/probability/Summary2.md)
 * [线性代数]()
 * [高等数学]()
 
