@@ -23,6 +23,21 @@
    * [第十九课 总结](src/machineLearning/Lesson19.md)
    * [机器学习作业](src/machineLearning/ex.md)
 * [NG机器学习 Python实践](src/NGPythonInAction/README.md)
+* [Scikit-learn实践](src/scikit_learn/README.md)
+	* [数据集](src/scikit_learn/dataset.md)
+	* [决策树](src/scikit_learn/decision_tree.md)
+	* [逻辑回归](src/scikit_learn/logical_regression.md)
+	* [朴素贝叶斯]
+	* [GBDT]
+	* [随机森林]
+	* [交叉验证集]
+	* [网格搜索]
+	* [模型持久化]
+	* [Pipline]
+* [Pandas实践](src/pandas/README.md)
+* [Tesorflow实践 0.8](src/tensorflow/README.md)
+	* [环境搭建](src/tensorflow/enviroment.md)
+	* [卷积神经网络 CNN](src/tensorflow/cnn.md)
 * [机器学习实践](src/MLInAction/README.md)
 	* [第二章 k邻近算法](src/MLInAction/chapter2.md) 
 	* [第三章 决策树](src/MLInAction/chapter3.md)
@@ -50,8 +65,10 @@
     * [第十六章 网络编程](src/python/pythoncore/chapter16.md)
     * [第十七章 网络客户端编程](src/python/pythoncore/chapter17.md)
     * [第十八章 多线程编程](src/python/pythoncore/chapter18.md)
+    * [实战技巧](src/python/pythoncore/practise.md)
   * [用Python做科学计算](src/python/scipy/README.md)
     * [数值计算要点 1](src/python/scipy/ns1.md)
+    * [pandas 要点](src/python/scipy/pandas.md)
 * [量化](src/quant/README.md)
   * [统计套利](src/quant/statARB/README.md)
     * [第一章 蒙特卡罗的谬误](./src/quant/statARB/第一章.md)
@@ -80,6 +97,7 @@
 	* [二元概率分布小结](src/probability/Summary3.md)
 	* [第二十九讲 数学期望的性质](src/probability/29.md)
 	* [概率全息知识小结](src/probability/Summary4.md)
+	* [第三十五讲 依概率收敛和切比雪夫不等式](src/probability/35.md)
 * [线性代数]()
 * [高等数学]()
 
